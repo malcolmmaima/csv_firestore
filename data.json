@@ -1,0 +1,219 @@
+{
+  "1": {
+    "senator": "Sen. Gertrude, Emma Mbura",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/57df6a0f34180006582f429068c6ac21_M.jpg?itok=8eooUzEd",
+    "party": "NAP",
+    "status": "Nominated",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/gertrude-emma-mbura"
+  },
+  "2": {
+    "senator": "Sen. Boy Issa Juma",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/4ca82b82130c674ad1cbfe141bf3b920_M.jpg?itok=X4hj9Kt4",
+    "party": "ODM",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/node/3731"
+  },
+  "3": {
+    "senator": "Sen. Madzayo Stewart Mwachiru",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/b9deed2baf78623484fc2170479f5cfb_M.jpg?itok=mByaMMtL",
+    "party": "ODM",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/node/3705"
+  },
+  "5": {
+    "senator": "Sen. Loitiptip Anuar",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/0a9c4647017995b1a5a50326a05e6fcf_M.jpg?itok=4e9v72Bo",
+    "party": "JP",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-loitiptip-anuar"
+  },
+  "7": {
+    "senator": "Sen. Iman Falhada Dekow",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/87a7ff7a4a8fb0e9da560f1cfab2bbd7_M.jpg?itok=madQ3V1U",
+    "party": "JP",
+    "status": "Nominated",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-iman-falhada-dekow"
+  },
+  "8": {
+    "senator": "Sen. (Dr.) Ali Abdullahi Ibrahim",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/28835731112bf174e8f5ff882b876d47_M.jpg?itok=fZg_a-Sm",
+    "party": "JP",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-dr-ali-abdullahi-ibrahim"
+  },
+  "9": {
+    "senator": "Sen. Mahamud Mohamed M",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/30c159f7039f4f65df10cdb5a5bd4371_M.jpg?itok=kwhy7AWH",
+    "party": "JP",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-mahamud-mohamed-m"
+  },
+  "10": {
+    "senator": "Sen. Hargura Godana",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/ba357ac7afbad42ac8b25041c150b8d1_M.jpg?itok=F7ipT6rz",
+    "party": "JP",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/node/3702"
+  },
+  "11": {
+    "senator": "Sen. Halake Abshiro Soka",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2020-07/Sen.%20Abshiro.jpg?itok=Y01lhOH5",
+    "party": "KANU",
+    "status": "Nominated",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-halake-abshiro-soka"
+  },
+  "12": {
+    "senator": "Sen. Linturi Franklin Mithika",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/4a2662994c6abdc171531b2b6af6a4de_M.jpg?itok=7wpq8o_J",
+    "party": "JP",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/node/3714"
+  },
+  "13": {
+    "senator": "Sen. Kindiki Kithure",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2020-02/Sen.%20Kithure%20Kindiki.jpg?itok=BPkPHKoC",
+    "party": "JP",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-kindiki-kithure"
+  },
+  "16": {
+    "senator": "Sen. Agnes Kavindu Muthama",
+    "senatorPic": "http://www.parliament.go.ke/the-senate/sen-agnes-kavindu-muthama",
+    "party": "Wiper",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-agnes-kavindu-muthama"
+  },
+  "17": {
+    "senator": "Sen. Kilonzo Mutula Junior",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/81460f786448ef802384de7a22471134_M.jpg?itok=qwtOaqYE",
+    "party": "WDM-K",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-kilonzo-mutula-junior"
+  },
+  "19": {
+    "senator": "Sen. (Eng.) Ephraim Mwangi",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/5a08b7b455c29c304dabcd194521e2e1_M.jpg?itok=1xLGT1Wl",
+    "party": "JP",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-eng-ephraim-mwangi"
+  },
+  "20": {
+    "senator": "Sen. Kibiru Charles Reubenson",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/b6d3c040c822ea2760689bd68755158a_M.jpg?itok=w5m43b8x",
+    "party": "IND",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-kibiru-charles-reubenson"
+  },
+  "21": {
+    "senator": "Sen. Kang’ata Irungu",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2020-02/Sen.%20Irungu%20Kangata.jpg?itok=EeZxURXF",
+    "party": "JP",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-kangata-irungu"
+  },
+  "22": {
+    "senator": "Sen. Kimani Wamatangi Paul",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/a6eab51a7068cefac7709d0e968987f7_M.jpg?itok=GoIzewE_",
+    "party": "JP",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-kimani-wamatangi-paul"
+  },
+  "23": {
+    "senator": "Sen. (Prof.) Imana Malachy Ekal",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/7ffa0a6eb51c9388ce14c9e4c32eb6e0_M.jpg?itok=vRmrjIsu",
+    "party": "ODM",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-prof-imana-malachy-ekal"
+  },
+  "25": {
+    "senator": "Sen (Dr.) Ltumbesi Lelegwe",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/41b4b772185780c545f480dd3c440a9c_M.jpg?itok=dPSzEIEP",
+    "party": "JP",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-dr-ltumbesi-lelegwe"
+  },
+  "26": {
+    "senator": "Sen. Mbito Michael Maling’a",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/e24cfae7f84287c076a251ad29dd373a_M.jpg?itok=PF1-_CwX",
+    "party": "JP",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/node/3746"
+  },
+  "27": {
+    "senator": "Sen. Kamar Margaret Jepkoech",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2018-10/Photo%20for%20website.jpg?itok=W_SPQbns",
+    "party": "JP",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-prof-kamar-margaret-jepkoech"
+  },
+  "29": {
+    "senator": "Sen. Cherarkey Samson K",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/d5992e48a3de38d31d3f7fc325ba2651_M.jpg?itok=6CB6WaDx",
+    "party": "JP",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-cherarkey-samson-k"
+  },
+  "30": {
+    "senator": "Sen. Moi Gideon Kipsielei",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/5ff9e7aed4b0e3579983191e3223a3de_M.jpg?itok=PcSbjONC",
+    "party": "KANU",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-moi-gideon-kipsielei"
+  },
+  "32": {
+    "senator": "Sen. Kihika Susan Wakarura",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2018-10/SEN%20KIHIKA%20PHOTO.JPG?itok=kkTXW0x5",
+    "party": "JP",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-kihika-susan-wakarura"
+  },
+  "36": {
+    "senator": "Sen. Cheruiyot Aaron Kipkirui",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2020-02/Sen.%20Cheruiyot.jpg?itok=UpAfL04p",
+    "party": "JP",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-cheruiyot-aaron-kipkirui"
+  },
+  "38": {
+    "senator": "Sen. Masitsa Naomi Shiyonga",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/a5db8c1256359d5e22d55281b76436ae_M.jpg?itok=z7Z3NPNI",
+    "party": "ODM",
+    "status": "Nominated",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-masitsa-naomi-shiyonga"
+  },
+  "43": {
+    "senator": "Sen. Kajwang’ Moses Otieno",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/75c9e484a584dcf8cadef40577ad1f28_M.jpg?itok=ohM2MFnl",
+    "party": "ODM",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-kajwang-moses-otieno"
+  },
+  "44": {
+    "senator": "Sen. Dr. Ochilo G.M. Ayacko.",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2019-01/Sen.%20Dr.%20Ochilo%20G.M.%20Ayacko._0.jpg?itok=gHIxc12W",
+    "party": "ODM",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-dr-ochilo-gm-ayacko"
+  },
+  "45": {
+    "senator": "Sen. (Prof.) Ongeri Samson Kegengo",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/b43bdffc2f2f09ef0aab635ab13a3417_M.jpg?itok=FOzzsfCi",
+    "party": "ODM",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-prof-ongeri-samson-kegengo"
+  },
+  "46": {
+    "senator": "Sen. Mogeni Erick Okong’o",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2017-10/ac07d9048fd094110f394261b5593b54_M.jpg?itok=-WOFJumF",
+    "party": "ODM",
+    "status": "Elected",
+    "senatorUrl": "http://www.parliament.go.ke/node/3748"
+  },
+  "47": {
+    "senator": "Sen. Makori Beatrice Kwamboka",
+    "senatorPic": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2021-01/Sen.%20Kwamboka.jpg?itok=oRtl5gVP",
+    "party": "ODM",
+    "status": "Nominated",
+    "senatorUrl": "http://www.parliament.go.ke/the-senate/sen-makori-beatrice-kwamboka"
+  }
+}
