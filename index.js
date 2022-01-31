@@ -1,6 +1,6 @@
 const admin = require('./node_modules/firebase-admin');
 const prompt = require('prompt-sync')();
-const serviceAccount = require("./serviceAccountKey.json");
+const serviceAccount = require("./serviceAccountKey.json"); //download from youre firebase account
 const data = require("./data.json"); //make sure you clean json file to avoid errors
 const collectionKey = prompt('Enter collection key: ');
 
