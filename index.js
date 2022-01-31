@@ -9,7 +9,6 @@ const collectionKey = prompt('Enter collection key: ');
  *    On output remember to select Hash and not Array. Convert then Download.
  * 2. once converted, download json file and save in project folder as data.json
  * 3. generate and download serviceaccountkey.json file from your firebase account
- * 4. always rename collectionKey to the name of your collection
 */
 
 admin.initializeApp({
